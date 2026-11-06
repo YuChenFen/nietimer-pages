@@ -50,6 +50,7 @@ const DATA = [
     items: [
       { name: "设计网页 0", href: "page_0.html" },
       { name: "设计网页 1", href: "page_1.html" },
+      { name: "设计网页 2", href: "page_2.html" },
       { name: "后台 0",  href: "nova_admin_0.html" },
     ],
   },
